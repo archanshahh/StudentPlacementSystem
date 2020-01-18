@@ -15,12 +15,7 @@ PHP, JavaScript, Laravel, Google Charts API, HTML, CSS, Bootstrap
 
 ## Website Link and Login Credentials
 - http://guarded-sierra-57737.herokuapp.com/
-- Student Login: p.niks007@gmail.com
-- Password: 12345678
-- Admin Login: patelharshil737@gmail.com
-- Password: 12345678
-- PO Login: archan1212@gmail.com
-- Password: 12345678
+- Email for login credentials at :archanshahh@gmail.com
 
 ## Individual contribution in designing and developing web pages
 
