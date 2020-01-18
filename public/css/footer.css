@@ -1,0 +1,28 @@
+.footer-class{
+    background-color: lightgray;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    padding: 5px;
+}
+.footer-buttons{
+    border: none;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
+span:hover{
+    color: green;
+}
+@media only screen and (max-width: 575px) {
+    main{
+        margin-bottom: 40%;
+    }
+}

@@ -1,0 +1,83 @@
+.box1 {
+	position: absolute;
+	background : #fff;
+	padding: 30px;
+	top: 15vh;
+	border-radius: 10px;
+	box-shadow: 0px 5px 15px 1px #64D2DA;
+}
+
+.block{
+	width: 80%;
+	height: auto;
+	margin: 20px auto;
+	text-align: center;
+
+}
+
+/*body {*/
+/*	background: url("../Images/home-wallpaper.jpg");*/
+/*}*/
+
+
+
+
+.center1 {
+	position: absolute;
+	text-align: center;
+	padding: 30px;
+	padding-left: 350px;
+}
+
+.text-shadow {
+	text-shadow: 5px 5px 10px #abcabc;
+}
+
+.thumbnail{
+    background-color:transparent;
+    background: transparent;
+    border-color: transparent;
+    max-width: 70%; /* or to whatever you want here */
+  	max-height: auto; /* or to whatever you want here */
+}
+
+div.container-fluid{
+    background-color: transparent !important;
+
+    color: black;
+    opacity: 1;
+}
+
+
+div.row {
+  background-color: rgba(255, 255, 255, 0.8);
+ }
+
+
+.bgcol {
+	background-color:transparent;
+    background: transparent;
+    border-color: transparent;
+}
+
+ .fontsize{
+ 	font-size: 	18px;
+ 	text-decoration-style: 	bold;
+ }
+
+ .navbar{
+    background-color: lightgray;
+    color: black;
+}
+.nav-buttons{
+    border: transparent;
+    border-color: transparent;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: transparent;
+    color: black;
+}

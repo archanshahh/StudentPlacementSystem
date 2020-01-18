@@ -1,0 +1,22 @@
+.btn-green{
+	background-image: linear-gradient(to right, lightblue , lightgreen);
+	color: white;
+	border-radius: 5px 5px 5px 5px;
+	padding: 0.5%;
+	cursor: pointer;
+	transition: 0.5s;
+	border: 2px solid lightgreen;
+}
+.btn-green:hover{
+	border-color: black;
+	color: black;
+	transition: 0.5s;
+}
+.justify-text {
+	text-align: justify;
+	text-justify: inter-word;
+}
+.vertical-center{
+	margin-top: auto;
+	margin-bottom: auto;
+}
